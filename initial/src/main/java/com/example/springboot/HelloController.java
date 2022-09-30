@@ -12,3 +12,29 @@ public class HelloController {
 	}
 
 }
+public class Main {
+  public static void main(String[] args) {
+    int myNum = 100000;
+    System.out.println(myNum);  
+  }
+}public class Main {
+  public static void main(String[] args) {
+    int myNum = 100000;
+    System.out.println(myNum);  
+  }
+}public class Main {
+  public static void main(String[] args) {
+    int myNum = 100000;
+    System.out.println(myNum);  
+  }
+}public class Main {
+  public static void main(String[] args) {
+    int myNum = 100000;
+    System.out.println(myNum);  
+  }
+}public class Main {
+  public static void main(String[] args) {
+    int myNum = 100000;
+    System.out.println(myNum);  
+  }
+}
